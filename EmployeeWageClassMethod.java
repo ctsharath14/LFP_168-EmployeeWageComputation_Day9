@@ -41,4 +41,4 @@ public class EmployeeWageClassMethod {
         EmployeeWageClassMethod empWageBuilder = new EmployeeWageClassMethod();
         empWageBuilder.computeEmployeeWage();
     }
-}
+
